@@ -1,2 +1,3 @@
 # Capstone-Project
-A dataset to compare ICU patient complications in different regions of the US and their correlation with patient mortality
+#A dataset to compare patient care in different regions of the US and their correlation with patient readmission, mortality, and healthcare cost
+
